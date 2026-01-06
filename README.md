@@ -19,19 +19,19 @@
 Cette documentation technique offre une exploration exhaustive de **HashiCorp Vault**, la solution de référence pour la gestion centralisée et sécurisée des secrets en environnement DevOps et cloud-native. 
 
 Conçue pour les professionnels de la cybersécurité, ingénieurs DevSecOps et architectes cloud, cette ressource combine :
-- 📚 Fondamentaux théoriques
-- 🛠️ Tutoriels pratiques détaillés  
-- 📊 Études de cas réels
-- 🎯 Bonnes pratiques de production
+-  Fondamentaux théoriques
+-  Tutoriels pratiques détaillés  
+-  Études de cas réels
+-  Bonnes pratiques de production
 
 ## 🎯 Objectifs
 
-- ✅ Comprendre l'architecture et les composants de Vault
-- ✅ Maîtriser la configuration et le durcissement sécuritaire
-- ✅ Implémenter des politiques d'accès granulaires
-- ✅ Intégrer Vault dans les pipelines CI/CD
-- ✅ Gérer la haute disponibilité et le disaster recovery
-- ✅ Assurer la conformité et l'audit
+-  Comprendre l'architecture et les composants de Vault
+-  Maîtriser la configuration et le durcissement sécuritaire
+-  Implémenter des politiques d'accès granulaires
+-  Intégrer Vault dans les pipelines CI/CD
+-  Gérer la haute disponibilité et le disaster recovery
+-  Assurer la conformité et l'audit
 
 ## 📖 Documentation
 
@@ -160,19 +160,12 @@ mastering-vault-hashicorp/
 
 ## 📚 Ressources complémentaires
 
-- 📘 [Documentation officielle Vault](https://developer.hashicorp.com/vault)
-- 🎓 [HashiCorp Learn Platform](https://learn.hashicorp.com/vault)
-- 💬 [Community Forum](https://discuss.hashicorp.com/c/vault)
-- 🐙 [Vault sur GitHub](https://github.com/hashicorp/vault)
+-  [Documentation officielle Vault](https://developer.hashicorp.com/vault)
+-  [HashiCorp Learn Platform](https://learn.hashicorp.com/vault)
+-  [Community Forum](https://discuss.hashicorp.com/c/vault)
+-  [Vault sur GitHub](https://github.com/hashicorp/vault)
 
 
-### Types de contributions acceptées
-
-- ✏️ Corrections de fautes et améliorations rédactionnelles
-- 📸 Ajout de captures d'écran manquantes
-- 💡 Nouveaux exemples et cas d'usage
-- 🐛 Corrections d'erreurs techniques
-- 🌍 Traductions (Anglais, Arabe, etc.)
 
 ## 📄 Licence
 
