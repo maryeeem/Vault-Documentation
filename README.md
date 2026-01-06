@@ -194,9 +194,9 @@ Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 **Maryem Cherif**  
 🔒 Network Security Engineer | Passionnée de Cybersécurité
 
-- 🌐 GitHub: [@maryeeem](https://github.com/maryeeem)
-- 📧 Email: [contact](cherif.maryem24@gmail.com)
-- 💼 LinkedIn: [Maryem Cherif](www.linkedin.com/in/cherif-maryem)
+- 🌐 GitHub: https://github.com/maryeeem
+- 📧 Email: cherif.maryem24@gmail.com 
+- 💼 LinkedIn: www.linkedin.com/in/cherif-maryem 
 
 ---
 
@@ -209,14 +209,6 @@ Un grand merci à :
 
 ---
 
-## 📊 Statistiques du projet
-
-![GitHub repo size](https://img.shields.io/github/repo-size/maryeeem/mastering-vault-hashicorp?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/maryeeem/mastering-vault-hashicorp?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/maryeeem/mastering-vault-hashicorp?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/maryeeem/mastering-vault-hashicorp?style=flat-square)
-
----
 
 <div align="center">
 
