@@ -1,4 +1,4 @@
-# 🔐 Mastering HashiCorp Vault
+#  Mastering HashiCorp Vault
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 📋 À propos
+##  À propos
 
 Cette documentation technique offre une exploration exhaustive de **HashiCorp Vault**, la solution de référence pour la gestion centralisée et sécurisée des secrets en environnement DevOps et cloud-native. 
 
@@ -24,7 +24,7 @@ Conçue pour les professionnels de la cybersécurité, ingénieurs DevSecOps et 
 -  Études de cas réels
 -  Bonnes pratiques de production
 
-## 🎯 Objectifs
+##  Objectifs
 
 -  Comprendre l'architecture et les composants de Vault
 -  Maîtriser la configuration et le durcissement sécuritaire
@@ -33,7 +33,7 @@ Conçue pour les professionnels de la cybersécurité, ingénieurs DevSecOps et 
 -  Gérer la haute disponibilité et le disaster recovery
 -  Assurer la conformité et l'audit
 
-## 📖 Documentation
+##  Documentation
 
 ### Structure du document
 
@@ -72,7 +72,7 @@ pdflatex main.tex  # Seconde compilation pour les références
 latexmk -pdf main.tex
 ```
 
-## 🚀 Démarrage rapide
+## Démarrage rapide
 
 ### Prérequis
 
@@ -96,7 +96,7 @@ brew install --cask mactex
 pdflatex --version
 ```
 
-## 💡 Fonctionnalités
+##  Fonctionnalités
 
 ### 🔹 Contenu technique
 
@@ -124,7 +124,7 @@ Application Flask démontrant :
 - Diagrammes de flux explicatifs
 - Mise en forme professionnelle avec couleurs thématiques
 
-## 📂 Structure du projet
+##  Structure du projet
 
 ```
 mastering-vault-hashicorp/
@@ -167,25 +167,25 @@ mastering-vault-hashicorp/
 
 
 
-## 📄 Licence
+##  Licence
 
 Ce projet est sous licence **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International** (CC BY-NC-SA 4.0).
 
 Vous êtes libre de :
-- ✅ **Partager** — copier et redistribuer le matériel
-- ✅ **Adapter** — remixer, transformer et créer à partir du matériel
+-  **Partager** — copier et redistribuer le matériel
+-  **Adapter** — remixer, transformer et créer à partir du matériel
 
 Selon les conditions suivantes :
-- 📌 **Attribution** — Vous devez créditer l'œuvre
-- 🚫 **Pas d'utilisation commerciale** — Vous ne pouvez pas utiliser cette œuvre à des fins commerciales
-- 🔄 **Partage dans les mêmes conditions** — Si vous modifiez l'œuvre, vous devez distribuer votre contribution sous la même licence
+-  **Attribution** — Vous devez créditer l'œuvre
+- **Pas d'utilisation commerciale** — Vous ne pouvez pas utiliser cette œuvre à des fins commerciales
+-  **Partage dans les mêmes conditions** — Si vous modifiez l'œuvre, vous devez distribuer votre contribution sous la même licence
 
 Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
-## 👤 Auteure
+##  Auteure
 
 **Maryem Cherif**  
-🔒 Network Security Engineer | Passionnée de Cybersécurité
+ Network Security Engineer | Passionnée de Cybersécurité
 
 - 🌐 GitHub: https://github.com/maryeeem
 - 📧 Email: cherif.maryem24@gmail.com 
